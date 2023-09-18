@@ -1,0 +1,16 @@
+body{
+    background-image: url(./IMG/bg-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container{
+    width: 360px;
+    height: 712px;
+    border: 1px solid red;
+    margin: auto;
+}
+
+#profile img{
+    width: 112px;
+}
